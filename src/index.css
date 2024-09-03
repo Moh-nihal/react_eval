@@ -1,0 +1,13 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import"tailwindcss/utilities";
+/* src/index.css */
+@import 'toastify-js/src/toastify.css';
+
+
+@import url('https://fonts.googleapis.com/css2?family=Nova+Square&display=swap');
+
+body{
+    background: lightblue;
+    font-family: "Nova Square", sans-serif;
+}
